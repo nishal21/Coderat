@@ -1,7 +1,10 @@
 mss
 opencv-python
 pyttsx3
-telebot
+pyTelegramBotAPI
 clipboard
-secure-delete
+requests
 pyAesCrypt
+psutil
+secure-delete
+imageio
